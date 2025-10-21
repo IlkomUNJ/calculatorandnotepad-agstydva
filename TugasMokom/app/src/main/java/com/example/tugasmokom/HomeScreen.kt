@@ -50,7 +50,6 @@ fun HomeScreen(navController: NavController) {
 
             Spacer(modifier = Modifier.height(16.dp))
 
-            // 🔹 Arahkan ke Dashboard Text Editor, bukan langsung ke editor
             Button(
                 onClick = { navController.navigate("texteditor_dashboard") },
                 modifier = Modifier

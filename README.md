@@ -2,7 +2,7 @@
 
 # Identity
 
-## Homework 2 Calculator & Notepad
+## Homework 2 Calculator & Notepad Text Editor
 
 Nama  : Agastya Dava Nurrahman
 
